@@ -1,0 +1,53 @@
+
+Exercice 1 
+Ecrire un algorithme qui demande le nom de l'utilisate et l'afffiche après bonjour
+
+Algorithme exemple1
+variables
+
+    nom chaine_de_caractères(30)
+debut
+    ecrire("tapez votre nom")
+    lire(nom)
+    ecrire("bonjour ",nom)
+fin.
+
+Exercice 2 
+Ecrire un algorithme qui reécupère deux entier et qui affiche leur somme
+
+
+Algorithme Addition
+Variables
+    a,b,r entiers
+Debut
+    Ecrire("Tapez la valeur de A :")
+    Lire(a)
+    Ecrire("Tapez la valeur de B :")
+    Lire(b)
+    r <-- a+b
+    Ecrire ("La somme de ", a, " et ", b , " est ", r)
+Fin.
+
+
+Exercice 3
+Ecrire un algorithme qui recupère deux entier et qui compare leur valeur et affiche lequel est le plus grand
+
+
+
+Algorithme comparaison
+variables
+    a,b entiers
+Debut
+    Ecrire ("tapez la valeur de A : ")
+    Lire(a)
+    Ecrire ("tapez la valeur de B : ")
+    Lire(b)
+    si a>b alors
+        Ecrire ("a est plus grande que b")
+    sinon
+        Ecrire("b est plus grande que a")
+    fin si
+Fin.
+
+exercice 4
+Ecrire un algorithme qui récupère 3 entiers a , b et c et qui affiche la plus grande valeur.
