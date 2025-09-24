@@ -1,0 +1,28 @@
+{
+  "main": [
+    {
+      "type": "REPEATER",
+      "value": "5"
+    },
+    {
+      "type": "SI_MUR"
+    },
+    {
+      "type": "TOURNER_DROITE"
+    },
+    {
+      "type": "ELSE"
+    },
+    {
+      "type": "AVANCER"
+    },
+    {
+      "type": "FIN_SI"
+    },
+    {
+      "type": "FIN_REPEATER"
+    }
+  ],
+  "f1": [],
+  "f2": []
+}

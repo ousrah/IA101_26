@@ -1,0 +1,30 @@
+{
+  "main": [
+    {
+      "type": "SI_MUR"
+    },
+    {
+      "type": "TOURNER_GAUCHE"
+    },
+    {
+      "type": "TOURNER_GAUCHE"
+    },
+    {
+      "type": "TOURNER_GAUCHE"
+    },
+    {
+      "type": "FIN_SI"
+    },
+    {
+      "type": "AVANCER"
+    },
+    {
+      "type": "AVANCER"
+    },
+    {
+      "type": "AVANCER"
+    }
+  ],
+  "f1": [],
+  "f2": []
+}

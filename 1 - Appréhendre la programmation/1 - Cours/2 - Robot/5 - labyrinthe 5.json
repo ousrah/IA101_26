@@ -1,0 +1,19 @@
+{
+  "main": [
+    {
+      "type": "REPEATER",
+      "value": "3"
+    },
+    {
+      "type": "AVANCER"
+    },
+    {
+      "type": "TOURNER_DROITE"
+    },
+    {
+      "type": "FIN_REPEATER"
+    }
+  ],
+  "f1": [],
+  "f2": []
+}

@@ -1,0 +1,30 @@
+{
+  "main": [
+    {
+      "type": "AVANCER"
+    },
+    {
+      "type": "AVANCER"
+    },
+    {
+      "type": "TOURNER_DROITE"
+    },
+    {
+      "type": "AVANCER"
+    },
+    {
+      "type": "TOURNER_DROITE"
+    },
+    {
+      "type": "TOURNER_DROITE"
+    },
+    {
+      "type": "TOURNER_DROITE"
+    },
+    {
+      "type": "AVANCER"
+    }
+  ],
+  "f1": [],
+  "f2": []
+}

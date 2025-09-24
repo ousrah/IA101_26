@@ -1,0 +1,45 @@
+{
+  "main": [
+    {
+      "type": "REPETER_JUSQUA"
+    },
+    {
+      "type": "SI_MUR"
+    },
+    {
+      "type": "SI_MUR_DROITE"
+    },
+    {
+      "type": "TOURNER_DROITE"
+    },
+    {
+      "type": "TOURNER_DROITE"
+    },
+    {
+      "type": "TOURNER_DROITE"
+    },
+    {
+      "type": "ELSE"
+    },
+    {
+      "type": "TOURNER_DROITE"
+    },
+    {
+      "type": "FIN_SI"
+    },
+    {
+      "type": "ELSE"
+    },
+    {
+      "type": "AVANCER"
+    },
+    {
+      "type": "FIN_SI"
+    },
+    {
+      "type": "FIN_JUSQUA"
+    }
+  ],
+  "f1": [],
+  "f2": []
+}

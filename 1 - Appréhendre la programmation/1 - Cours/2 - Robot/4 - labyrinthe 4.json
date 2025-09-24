@@ -1,0 +1,16 @@
+{
+  "main": [
+    {
+      "type": "REPEATER",
+      "value": "6"
+    },
+    {
+      "type": "AVANCER"
+    },
+    {
+      "type": "FIN_REPEATER"
+    }
+  ],
+  "f1": [],
+  "f2": []
+}
